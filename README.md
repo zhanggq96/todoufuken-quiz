@@ -1,5 +1,7 @@
 # 都道府県よみクイズ
 
+Japanese geography quiz created by Claude. Link: [https://zhanggq96.github.io/todoufuken-quiz/](https://zhanggq96.github.io/todoufuken-quiz/)
+
 47都道府県を3つのモードで答えるブラウザゲームです。
 
 - **漢字から読みを答える** — 都道府県名の読みをひらがな・カタカナで入力
